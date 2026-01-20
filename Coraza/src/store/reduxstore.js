@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit"
-import authSlice from "./authSlice.js"
+import authSlice from "./authslice.js"
 
 
 // store.js is the file that configures the store
