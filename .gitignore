@@ -1,7 +1,2 @@
 20260120_LandingPageEventCoraza.rtf
-node_modules/
-dist/
 .env
-.venv
-.DS_Store
-*.log
