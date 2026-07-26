@@ -60,7 +60,7 @@ function Home() {
               border
               shadow-[0_0_60px_rgba(0,0,0,0.9)]
               ${artwork.borderClass}
-              ${artwork.marginTop ? 'mt-6' : ''}
+              ${artwork.marginTop}
             `}
           >
             <img
