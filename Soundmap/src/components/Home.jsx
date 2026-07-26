@@ -248,6 +248,7 @@ function Home() {
           className="
             relative
             w-full
+            mt-6
             max-w-5xl
             rounded-xl
             overflow-hidden
@@ -325,19 +326,6 @@ function Home() {
               duration-1000
             "
           />
-        </div>
-      </section>
-      {/* SOUND MAP SECTION */}
-      <section className="bg-black py-2 text-[#AB4337]">
-        <div className="mx-auto max-w-5xl">
-          <div className=" text-center">
-            <h2 className="text-2xl  md:text-2xl">
-              Lorena Mancero
-            </h2>
-            <h2 className="text-2xl  md:text-2xl">
-              Directora del Proyecto
-            </h2>
-          </div>
         </div>
       </section>
     </div>

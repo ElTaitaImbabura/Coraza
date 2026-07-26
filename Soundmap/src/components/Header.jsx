@@ -43,12 +43,12 @@ function Header() {
 
                 {/* CENTER: TITLE */}
                 <div className="flex justify-center">
-                    <h1
+                    {/* <h1
                         className="text-3xl md:text-4xl font-cinzel tracking-wide"
-                        style={{ color: "black" }}
+                        style={{ color: "white" }}
                     >
                         Devenir Insurrectas
-                    </h1>
+                    </h1> */}
                 </div>
 
                 {/* RIGHT: Language buttons */}
