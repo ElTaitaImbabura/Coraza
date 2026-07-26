@@ -18,7 +18,7 @@ function Footer() {
         {/* Right */}
         <div className="text-right">
           <p className="text-lg font-semibold text-[#B8A03A]">
-            Xavier Lopez
+            Xavier López
           </p>
 
           <p className="mt-1 text-sm tracking-wide text-[#B8A03A]">
