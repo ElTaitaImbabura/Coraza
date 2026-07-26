@@ -37,7 +37,7 @@ function Header() {
                         className="flex items-center justify-center w-16 h-16 rounded-full"
                         style={{ backgroundColor: "#2F3F5C" }}
                     >
-                        <Logo />
+                        <Logo /> 
                     </Link>
                 </div>
 
@@ -47,7 +47,7 @@ function Header() {
                         className="text-3xl md:text-4xl font-cinzel tracking-wide"
                         style={{ color: "#B8A03A" }}
                     >
-                        Lorena's sound map
+                        Devenir Insurrectas
                     </h1>
                 </div>
 
