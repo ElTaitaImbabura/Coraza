@@ -239,9 +239,11 @@ function Home() {
 
   return (
     <div className="w-full">
-      {/* HERO SECTION */}
+      <h1 className="text-center md:text-4xl font-cinzel bg-black tracking-wide" style={{ color: "#AB4337" }}>
+          Devenir Insurrectas
+      </h1>
       {/* SECOND ARTWORK SECTION */}
-      <section className="flex justify-center bg-black py-10 px-6">
+      <section className="flex justify-center bg-black py-2 px-6">
         <div
           className="
             relative
@@ -270,7 +272,7 @@ function Home() {
         </div>
       </section>
       {/* SECOND ARTWORK SECTION */}
-      <section className="flex justify-center bg-black py-10 px-6">
+      <section className="flex justify-center bg-black py-2 px-6">
         <div
           className="
             relative
@@ -298,7 +300,7 @@ function Home() {
           />
         </div>
       </section>
-      <section className="flex justify-center bg-black py-10 px-6">
+      <section className="flex justify-center bg-black py-2 px-6">
         <div
           className="
             relative
@@ -326,13 +328,13 @@ function Home() {
         </div>
       </section>
       {/* SOUND MAP SECTION */}
-      <section className="bg-black py-8 text-[#AB4337]">
+      <section className="bg-black py-2 text-[#AB4337]">
         <div className="mx-auto max-w-5xl">
           <div className=" text-center">
-            <h2 className="mb-2 text-2xl  md:text-3xl">
+            <h2 className="text-2xl  md:text-2xl">
               Lorena Mancero
             </h2>
-            <h2 className="mb-2 text-2xl  md:text-3xl">
+            <h2 className="text-2xl  md:text-2xl">
               Directora del Proyecto
             </h2>
           </div>

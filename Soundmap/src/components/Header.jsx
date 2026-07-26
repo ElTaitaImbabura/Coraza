@@ -45,7 +45,7 @@ function Header() {
                 <div className="flex justify-center">
                     <h1
                         className="text-3xl md:text-4xl font-cinzel tracking-wide"
-                        style={{ color: "#AB4337" }}
+                        style={{ color: "black" }}
                     >
                         Devenir Insurrectas
                     </h1>

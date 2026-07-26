@@ -16,7 +16,7 @@ function Studio() {
     { id: 'ecuador-4', name: 'Miñarcaja', x: 34, y: 47, audio: '/audio/Miniarcaja_LasVecis_Chimborazo_Ecuador.mp3' },
     { id: 'ecuador-5', name: 'Gladys', x: 15, y: 40, audio: '/audio/Gladys_Uyumbicho_Ecuador.mp3' },
     { id: 'ecuador-6', name: 'Amupakin', x: 59, y: 38, audio: '/audio/Amupakin_Tena_Ecuador.mp3' },
-    { id: 'ecuador-7', name: 'Jhoana', x: 72, y: 51, audio: '/audio/Jhoana_Uyumbicho_Ecuador.mp3' },
+    { id: 'ecuador-7', name: 'Johana', x: 72, y: 51, audio: '/audio/Jhoana_Uyumbicho_Ecuador.mp3' },
     { id: 'ecuador-8', name: 'Nina', x: 57, y: 63, audio: '/audio/Nina_Mindo_Ecuador.mp3' },
     // { id: 'ecuador-10', name: 'Ecuador 10', x: 42, y: 72, audio: '/audio/chile.wav' },
   ];
@@ -129,7 +129,10 @@ function Studio() {
   return (
     <main className="min-h-screen bg-black px-4 py-8 text-[#B8A03A]">
       <div>
-        <h1 className="mb-6 text-center md:text-2xl font-cinzel tracking-wide" style={{ color: "#D7E6F8" }}>
+        <h1 className="mb-6 text-center md:text-4xl font-cinzel tracking-wide" style={{ color: "#AB4337" }}>
+          Devenir Insurrectas
+        </h1>
+        <h1 className="mb-6 text-center md:text-2xl font-cinzel tracking-wide" style={{ color: "#B8A03A" }}>
           Presiona los círculos para escuchar los saberes de plantas medicinales
         </h1>
       </div>
