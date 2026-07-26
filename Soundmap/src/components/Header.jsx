@@ -15,12 +15,12 @@ function Header() {
     // create a constant of navigation items, once we have that as an array we can loop through the items
     const navItems = [
         {
-            name: "ENG",
+            name: "Proyecto",
             slug: "/",
             active: true
         },
         {
-            name: "ESP",
+            name: "Mapa Sonoro",
             slug: "/studio",
             active: true
         }
@@ -45,7 +45,7 @@ function Header() {
                 <div className="flex justify-center">
                     <h1
                         className="text-3xl md:text-4xl font-cinzel tracking-wide"
-                        style={{ color: "#B8A03A" }}
+                        style={{ color: "#AB4337" }}
                     >
                         Devenir Insurrectas
                     </h1>

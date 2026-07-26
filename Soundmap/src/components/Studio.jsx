@@ -23,8 +23,8 @@ function Studio() {
 
   const argentinaLocations = [
     { id: 'argentina-1', name: 'Agostina', x: 54, y: 12, audio: '/audio/Agostina_Tucuman_Argentina.mp3' },
-    { id: 'argentina-2', name: 'Argentina 2', x: 52, y: 23, audio: '/audio/Yrene_BuenosAires_Argentina.mp3' },
-    { id: 'argentina-3', name: 'Argentina 3', x: 58, y: 38, audio: '/audio/Kantuta_BuenosAires_Argentina.mp3' },
+    { id: 'argentina-2', name: 'Yrene', x: 52, y: 23, audio: '/audio/Yrene_BuenosAires_Argentina.mp3' },
+    { id: 'argentina-3', name: 'Kantuta', x: 58, y: 38, audio: '/audio/Kantuta_BuenosAires_Argentina.mp3' },
     { id: 'ecuador-9', name: 'Sandra', x: 40, y: 69, audio: '/audio/Sandra_peyote.mp3' },
   ];
 
